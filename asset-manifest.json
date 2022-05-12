@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_color_shades_generator/static/css/main.884598ae.css",
+    "main.js": "/react_color_shades_generator/static/js/main.a8303f6d.js",
+    "index.html": "/react_color_shades_generator/index.html",
+    "main.884598ae.css.map": "/react_color_shades_generator/static/css/main.884598ae.css.map",
+    "main.a8303f6d.js.map": "/react_color_shades_generator/static/js/main.a8303f6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.884598ae.css",
+    "static/js/main.a8303f6d.js"
+  ]
+}
